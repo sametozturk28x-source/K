@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">الصلاة والقبلة العالمية</string>
+    <string name="next_prayer">الصلاة القادمة</string>
+    <string name="countdown">الوقت المتبقي</string>
+    <string name="qibla">القبلة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="location_permission_required">يتطلب إذن الموقع.</string>
+    <string name="ad_loading">جاري تحميل الإعلان</string>
+</resources>

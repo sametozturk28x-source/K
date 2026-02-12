@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Global Namaz ve Kıble</string>
+    <string name="next_prayer">Sonraki Namaz</string>
+    <string name="countdown">Kalan Süre</string>
+    <string name="qibla">Kıble</string>
+    <string name="settings">Ayarlar</string>
+    <string name="location_permission_required">Konum izni gerekli.</string>
+    <string name="ad_loading">Reklam yükleniyor</string>
+</resources>
